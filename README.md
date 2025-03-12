@@ -1,7 +1,7 @@
 # Intelligent-Manufacturing-Large-Models---Teaching-Materials
 sbyy
 Obviously.
-
+ ![image](a handsome boy.jpg)
 The codes and datasets are coming soon.
 
 News
