@@ -1,7 +1,7 @@
 # Intelligent-Manufacturing-Large-Models---Teaching-Materials
 sbyy
 Obviously.
- ![image](a handsome boy.jpg)
+ ![a handsome boy.jpg](https://github.com/WangLiyao1/Intelligent-Manufacturing-Large-Models---Teaching-Materials/blob/ce95d12915333f356f61b48ca4c7471d950c0128/a%20handsome%20boy.jpg)
 The codes and datasets are coming soon.
 
 News
