@@ -1,4 +1,4 @@
-# Intelligent-Manufacturing-Large-Models---Teaching-Materials
+# Intelligent-Manufacturing-Large-Models---Textbooks
 Boom!! Students from Tongji University are doing some shady things！
 
 Who are we?
