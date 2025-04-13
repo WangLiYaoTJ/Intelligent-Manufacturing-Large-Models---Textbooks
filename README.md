@@ -1,5 +1,5 @@
 # Intelligent-Manufacturing-Large-Models---Textbooks
-Boom!! Students from Tongji University are doing some shady things！
+Boom!! Students from Tongji University are doing some great things！
 
 Who are we?
 
